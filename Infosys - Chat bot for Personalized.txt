@@ -1,0 +1,28 @@
+Infosys - Chat bot for Personalized learning
+
+Day-1 04-11-2024
+
+introduction of Personalized learnings
+
+06-11-2024
+
+Primary use case Align with the Business
+(handling quires, solving the issues)
+
+It can be personalized the most specific output is expected by the chat bot
+
+Identifying the main audience target
+
+Choosing the Type of chat bot
+Rule based, Ai powered(ml and NLP),  Hybrid Combined with rule based and Ai based
+
+user authentication, Context management 
+
+Platform integration 
+
+
+
+8-11-24
+Implementation of RNN and CNN with comment of neat explanation we should show on Monday
+Define what database used to train test and split it
+use tensorflow to do that
